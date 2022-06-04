@@ -2,4 +2,4 @@
 
 ## A application for manage cashier, this project for submission of module dicoding (https://www.dicoding.com/academies/159/)
 
-![UI](https://raw.githubusercontent.com/dwidev/mini_g/main/assets/ui-for-readme.png)
+![UI](https://raw.githubusercontent.com/dwidev/mini_g/main/.github/assets/ui-for-readme.png)
